@@ -2,6 +2,8 @@
 - 👀 I’m interested in programming and software engineering.
 - 🌱 I’m currently learning front-end and back-end web development
 - 💞️ I’m looking to collaborate on ...
+- 👀 I hope that you find my CV is suitable for your job requirments,
+      you can visit it here https://mezoo-adel.github.io/cv/
 - 📫 You can reach me on my E-mail mo3tz3adel@gmail.com .
 
 I have learned many technologies, Android, Java, SQL, HTML5, CSS3, Boot Starp, JavaScript, JQuery, Google Firebase, etc...
