@@ -6,7 +6,7 @@
       you can visit it here https://mezoo-adel.github.io/cv/
 - 📫 You can reach me on my E-mail mo3tz3adel@gmail.com .
 
-I have learned many technologies, Android, Java, SQL, HTML5, CSS3, Boot Starp, JavaScript, JQuery, Google Firebase, etc...
+I have learned many technologies: WordPress, MySQL, HTML5, CSS3, BootStarp, JavaScript, JQuery, PHP, Docker, Google Firebase, Android, Java, etc...
 - 👀 Feel Free to visit my LinkedIn account : https://www.linkedin.com/in/moataz-adel/
 <!---
 mezoo-adel/mezoo-adel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
