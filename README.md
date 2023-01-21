@@ -13,5 +13,5 @@ mezoo-adel/mezoo-adel is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes....
 
 ![alt text](https://cdn.pixabay.com/photo/2020/09/25/10/10/education-5600987__340.png)
-![alt text](https://user-images.githubusercontent.com/63975219/213864832-63055fd7-f736-4a18-9ba3-6a30868409b8.PNG)
+![Model](https://user-images.githubusercontent.com/63975219/213864832-63055fd7-f736-4a18-9ba3-6a30868409b8.PNG)
 
