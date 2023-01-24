@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mezoo-Adel from Egypt
 - 👀 I’m interested in programming and software engineering.
 - 🌱 I’m currently learning front-end and back-end web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on developing websites.
 - 👀 I hope that you find my CV is suitable for your job requirments,
       you can visit it here https://mezoo-adel.github.io/cv/
 - 📫 You can reach me on my E-mail mo3tz3adel@gmail.com .
