@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Mezoo-Adel from Egypt
+- 👋 Hi, I’m Mezoo-Adel from Egypt 👋
 - 👀 I’m interested in programming and software engineering.
 - 🌱 I’m a Junior Full Stack web developer
 - 💞️ I’m looking to collaborate on developing websites.
-- 👀 I hope that you find my CV is suitable for your job requirments,
-      you can visit me here at https://drive.google.com/file/d/11WawYtX24amv1jb5GGcVfXO5UknnZstS/view?usp=drivesdk
+- 👀 I hope that you find my resume is suitable for your job requirments,
+      you can <a href="https://drive.google.com/file/d/1VJtzH6DnTvXr8z5Md1BMCBe7_5ZqLSeo/view?usp=sharing">open CV here</a>
 - 📫 You can reach me on my E-mail mo3tz3adel@gmail.com .
 
 I have learned many technologies: HTML, CSS, BootStarp, JavaScript, JQuery, MySQL, PHP, Laravel, Vue, Docker, AWS Beanstalk, Google Firebase, Android, Java, etc...
