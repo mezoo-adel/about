@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mezoo-Adel from Egypt 👋
+- 👋 Hi, I’m Mezoo Adel from Egypt 👋
 - 👀 I’m interested in programming and software engineering.
 - 🌱 I’m a Junior Full Stack web developer
 - 💞️ I’m looking to collaborate on developing websites.
